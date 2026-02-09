@@ -1,0 +1,3 @@
+https://leetcode.com/problems/two-sum/description/
+
+Used Neetcode.io video to understand the enumerate better, came back to try next day and succeeded.
