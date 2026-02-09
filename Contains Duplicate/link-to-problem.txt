@@ -1,1 +1,3 @@
 https://leetcode.com/problems/contains-duplicate/description/
+
+No hints or assistance
