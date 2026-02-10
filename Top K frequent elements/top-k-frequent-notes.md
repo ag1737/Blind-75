@@ -41,4 +41,5 @@ Using `defaultdict(int)` is clean and efficient. Loop through `nums` and increme
 ## Resources
 
 - [Python - Sort Dictionaries by Key or Value (GeeksforGeeks)](https://www.geeksforgeeks.org/python/python-sort-python-dictionaries-by-key-or-value/)
-- https://leetcode.com/problems/top-k-frequent-elements/
+- - [LeetCode Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
