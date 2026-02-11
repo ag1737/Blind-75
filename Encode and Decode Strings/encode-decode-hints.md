@@ -2,8 +2,6 @@
 
 leetcode link is paywalled, here is the neetcode version: https://neetcode.io/problems/string-encode-and-decode/question
 
-> **AI Assistance Disclosure:** This document was generated with the help of Claude (Anthropic). AI was used to provide hints, identify bugs, and guide problem-solving — **not** to provide the final solution. All code attempts were written by me, with AI providing feedback and direction.
-
 ---
 
 ## How AI Was Used
