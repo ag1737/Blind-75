@@ -111,4 +111,4 @@ class Solution:
         return decodedlist
 ```
 
-### Attempt 3 — TODO: Implement length-prefixing approach (will do once I have properly looked at pointers 
+### Attempt 3 — TODO: Implement length-prefixing approach (will do once I have properly looked at pointers)
