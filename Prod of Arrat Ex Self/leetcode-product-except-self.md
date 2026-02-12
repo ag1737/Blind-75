@@ -1,4 +1,5 @@
 # Products of Array Except Self (Medium)
+https://leetcode.com/problems/product-of-array-except-self/description/
 
 ## Problem
 Given an integer array `nums`, return an array `output` where `output[i]` is the product of all elements except `nums[i]`.
@@ -66,6 +67,10 @@ for i, v in enumerate(nums):
 - `list.append(x)` adds to the **end**, not the original position
 
 ---
+
+**Disclaimer**
+
+code was accepted by neetcode but not by leetcode, time complexity of n^2 made it time out
 
 ## Complexity (Current Approach)
 - **Time:** O(n²) — nested loop
