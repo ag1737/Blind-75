@@ -68,9 +68,11 @@ for i, v in enumerate(nums):
 
 ---
 
-**Disclaimer**
+##Disclaimer
 
 code was accepted by neetcode but not by leetcode, time complexity of n^2 made it time out
+
+---
 
 ## Complexity (Current Approach)
 - **Time:** O(n²) — nested loop
