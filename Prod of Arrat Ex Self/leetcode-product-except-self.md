@@ -70,7 +70,7 @@ for i, v in enumerate(nums):
 
 ## Disclaimer
 
-code was accepted by neetcode but not by leetcode, time complexity of n^2 made it time out
+code was accepted by neetcode but not by leetcode, - **Time:** O(n²) made it time out
 
 ---
 
