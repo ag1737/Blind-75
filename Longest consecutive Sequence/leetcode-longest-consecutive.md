@@ -19,8 +19,6 @@ Given an unsorted array of integers `nums`, return the length of the longest con
 | **Core insight** | Guided toward the key idea: a number is the start of a sequence only if `num - 1` doesn't exist in the collection |
 | **Data structure selection** | Steered away from dictionary, list, and tuple toward using a **set** for O(1) membership checks |
 | **Algorithm structure** | Suggested using a **while loop** to extend from each sequence start, rather than relying on set iteration order |
-| **Bug identification** | Caught a variable name typo (`nums` vs `num` in the for loop) |
-| **Minor simplification** | Suggested tracking a single `longest` variable instead of building a `counts` list |
 | **Documentation** | Compiled all guidance into this markdown file |
 
 ---
