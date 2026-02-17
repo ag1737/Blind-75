@@ -20,6 +20,9 @@ Requires **monotonic structure** (usually a sorted array) so moving a pointer ha
 
 [LeetCode 125 - Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
+---
+Only needed help with naive solution after two pointer was explained above
+---
 `reversed()` returns an **iterator**, not a string, so comparing it directly to a string always returns `False`.
 
 ```python
